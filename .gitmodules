@@ -1,0 +1,3 @@
+[submodule "speedchallenge"]
+	path = speedchallenge
+	url = https://github.com/commaai/speedchallenge
